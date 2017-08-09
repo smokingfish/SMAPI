@@ -1,0 +1,13 @@
+﻿{
+  "Name": "MarcusUndAnneMod",
+  "Author": "MarcusUndAnne",
+  "Version": {
+    "MajorVersion": 1,
+    "MinorVersion": 0,
+    "PatchVersion": 0,
+    "Build": null
+  },
+  "Description": "Does absolutely nothing",
+  "UniqueID": "MarcusUndAnne.MarcusUndAnneMod",
+  "EntryDll": "MarcusUndAnneMod.dll"
+}

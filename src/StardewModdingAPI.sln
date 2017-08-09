@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.14
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainerMod", "TrainerMod\TrainerMod.csproj", "{28480467-1A48-46A7-99F8-236D95225359}"
 EndProject
@@ -30,6 +30,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StardewModdingAPI.AssemblyRewriters", "StardewModdingAPI.AssemblyRewriters\StardewModdingAPI.AssemblyRewriters.csproj", "{10DB0676-9FC1-4771-A2C8-E2519F091E49}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StardewModdingAPI.Tests", "StardewModdingAPI.Tests\StardewModdingAPI.Tests.csproj", "{36CCB19E-92EB-48C7-9615-98EEFD45109B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcusUndAnneMod", "MarcusUndAnneMod\MarcusUndAnneMod.csproj", "{67F289F5-FCD1-4E13-85E6-45717A76210C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,18 @@ Global
 		{36CCB19E-92EB-48C7-9615-98EEFD45109B}.Release|Mixed Platforms.Build.0 = Release|x86
 		{36CCB19E-92EB-48C7-9615-98EEFD45109B}.Release|x86.ActiveCfg = Release|x86
 		{36CCB19E-92EB-48C7-9615-98EEFD45109B}.Release|x86.Build.0 = Release|x86
+		{67F289F5-FCD1-4E13-85E6-45717A76210C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F289F5-FCD1-4E13-85E6-45717A76210C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F289F5-FCD1-4E13-85E6-45717A76210C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{67F289F5-FCD1-4E13-85E6-45717A76210C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{67F289F5-FCD1-4E13-85E6-45717A76210C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{67F289F5-FCD1-4E13-85E6-45717A76210C}.Debug|x86.Build.0 = Debug|Any CPU
+		{67F289F5-FCD1-4E13-85E6-45717A76210C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F289F5-FCD1-4E13-85E6-45717A76210C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F289F5-FCD1-4E13-85E6-45717A76210C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{67F289F5-FCD1-4E13-85E6-45717A76210C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{67F289F5-FCD1-4E13-85E6-45717A76210C}.Release|x86.ActiveCfg = Release|Any CPU
+		{67F289F5-FCD1-4E13-85E6-45717A76210C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

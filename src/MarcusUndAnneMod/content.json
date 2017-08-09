@@ -1,0 +1,133 @@
+﻿{
+  "Notifications": [
+    {
+      "Text": "Guten Morgen Maus! Viel Erfolg heute!",
+      "Times": [
+        620
+      ],
+      "DaysOfWeek": null,
+      "Days": null,
+      "Chance": 100,
+      "Category": 2,
+      "Action": 0,
+      "Season": null
+    },
+    {
+      "Text": "Ich liebe dich <",
+      "Times": [
+        700,
+        1900
+      ],
+      "DaysOfWeek": null,
+      "Days": null,
+      "Chance": 100,
+      "Category": 5,
+      "Action": 0,
+      "Season": null
+    },
+    {
+      "Text": "== Unsere Liebe heilt alle Wunden ==",
+      "Times": [
+        800
+      ],
+      "DaysOfWeek": null,
+      "Days": null,
+      "Chance": 100,
+      "Category": 5,
+      "Action": 2,
+      "Season": null
+    },
+    {
+      "Text": "Ich hasse Montage - Garfield",
+      "Times": [
+        900,
+        2000
+      ],
+      "DaysOfWeek": [
+        1
+      ],
+      "Days": null,
+      "Chance": 50,
+      "Category": 3,
+      "Action": 0,
+      "Season": null
+    },
+    {
+      "Text": "Ab ins Bett*",
+      "Times": [
+        2400
+      ],
+      "DaysOfWeek": null,
+      "Days": null,
+      "Chance": 50,
+      "Category": 5,
+      "Action": 0,
+      "Season": null
+    },
+    {
+      "Text": "] PENIS ]",
+      "Times": [
+        1200,
+        1600
+      ],
+      "DaysOfWeek": null,
+      "Days": null,
+      "Chance": 10,
+      "Category": 5,
+      "Action": 0,
+      "Season": null
+    },
+    {
+      "Text": "Sei stark!",
+      "Times": [
+        1100,
+        1700
+      ],
+      "DaysOfWeek": null,
+      "Days": null,
+      "Chance": 20,
+      "Category": 5,
+      "Action": 0,
+      "Season": null
+    },
+    {
+      "Text": "@ Brauchst du Hilfe? Und ab gehts >",
+      "Times": [
+        1000,
+        1100,
+        1200,
+        1300,
+        1400,
+        1500,
+        1600,
+        1700,
+        1800,
+        1900,
+        2000,
+        2100,
+        2200,
+        2300,
+        2400
+      ],
+      "DaysOfWeek": null,
+      "Days": null,
+      "Chance": 2,
+      "Category": 2,
+      "Action": 3,
+      "Season": null
+    },
+    {
+      "Text": "Ein geheimnissvoller Brief ist auf dem Weg zu dir!",
+      "Times": [
+        620
+      ],
+      "DaysOfWeek": null,
+      "Days": null,
+      "Chance": 100,
+      "Category": 2,
+      "Action": 1,
+      "ActionParameter":  "Anne2",
+      "Season": null
+    }
+  ]
+}
